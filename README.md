@@ -22,7 +22,7 @@ Friends App Using Ruby on Rails with PostgreSQL database deployed on Heroku.
 
 ### Edit Profile
 
-![image](https://user-images.githubusercontent.com/54937357/171356127-6a5db7c8-2882-4eb4-9a29-4d9001be7e7c.png)
+![image](https://user-images.githubusercontent.com/54937357/171356691-8ad444e4-1a24-436b-a647-d6a0e4509256.png)
 
 
 ### Add Friend (Create)
@@ -39,7 +39,9 @@ Friends App Using Ruby on Rails with PostgreSQL database deployed on Heroku.
 
 ### Update Friend (Update)
 
-![image](https://user-images.githubusercontent.com/54937357/171343307-fe93b5d7-a151-4168-962b-52ddf88b345e.png)
+![image](https://user-images.githubusercontent.com/54937357/171356885-0cb37440-ce1f-46df-bc51-9eaa4848f773.png)
+
+![image](https://user-images.githubusercontent.com/54937357/171356785-0bed0545-2b33-4709-a48b-eb3c5a27a0db.png)
 
 
 ### Delete Friend (Delete)
