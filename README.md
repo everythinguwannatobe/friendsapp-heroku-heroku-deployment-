@@ -1,9 +1,9 @@
-# friendsapp
-Friends App Using Ruby on Rails
-
- - [Try this Web Application!](https://rubyonrailsfriendwebapp.herokuapp.com)
+# FriendsApp
+Friends App Using Ruby on Rails with PostgreSQL database deployed on Heroku.
 
 ---
+
+ >[Try this Web Application!](https://rubyonrailsfriendwebapp.herokuapp.com)
 
 ### Home Page
 
