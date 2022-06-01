@@ -27,7 +27,7 @@ Friends App Using Ruby on Rails with PostgreSQL database deployed on Heroku.
 
 ### Show Friend (Read)
 
-![image](https://user-images.githubusercontent.com/54937357/171343489-519b8485-dc77-489b-86e4-c89442ac8fd5.png)
+![image](https://user-images.githubusercontent.com/54937357/171355862-6357478a-062d-435c-96bc-695752b1bc4c.png)
 
 ![image](https://user-images.githubusercontent.com/54937357/171350662-36275bc4-0534-4a72-b3bf-a013a3577d32.png)
 
@@ -41,6 +41,4 @@ Friends App Using Ruby on Rails with PostgreSQL database deployed on Heroku.
 
 ### Friends List
 
-![image](https://user-images.githubusercontent.com/54937357/171343552-ca70813b-ea7b-48f2-81f2-ce932599988c.png)
-
-
+![image](https://user-images.githubusercontent.com/54937357/171355773-88dc297f-f86b-4818-8fd7-055e89f4f724.png)
