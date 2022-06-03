@@ -1,5 +1,5 @@
 # FriendsApp
-Friends App Using Ruby on Rails with PostgreSQL database deployed on Heroku.
+ 👉🏻 Friends App Using Ruby on Rails with PostgreSQL database deployed on Heroku.
 
 ---
 
